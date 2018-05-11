@@ -1,0 +1,7 @@
+dist/
+*.egg-info/
+.DS_Store
+.idea/
+__pycache__/
+*.pyc
+*.sw[pow]
